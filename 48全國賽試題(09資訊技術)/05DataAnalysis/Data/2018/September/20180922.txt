@@ -1,0 +1,12 @@
+Departure Date	Departure Time	Departure  stations	Arrival Date	Arrival Time	Arrival stations	Class
+2018-Sep-22	0:29:39	N.novgorod	2018-Sep-22	15:41:36	Yaroslavl	B
+2018-Sep-22	1:57:06	Vologda	2018-Sep-22	22:36:01	Kazan	B
+2018-Sep-22	2:32:29	Moscow	2018-Sep-22	19:05:34	Minsk	E
+2018-Sep-22	3:06:42	Tver	2018-Sep-22	18:51:00	Kazan	A
+2018-Sep-22	4:16:33	Tver	2018-Sep-22	8:49:38	Kiev	E
+2018-Sep-22	5:16:39	Vologda	2018-Sep-22	17:48:04	Minsk	D
+2018-Sep-22	5:52:44	Moscow	2018-Sep-23	4:24:58	Minsk	D
+2018-Sep-22	9:31:52	N.novgorod	2018-Sep-23	7:40:50	Minsk	C
+2018-Sep-22	12:59:41	Vologda	2018-Sep-22	21:03:55	St-Petersburg	C
+2018-Sep-22	15:52:24	Vologda	2018-Sep-23	4:14:42	Yaroslavl	A
+2018-Sep-22	20:09:04	Petrozavodsk	2018-Sep-23	4:31:15	Kazan	B

@@ -1,0 +1,5 @@
+Departure Date	Departure Time	Departure  stations	Arrival Date	Arrival Time	Arrival stations	Class
+2018-Jul-29	2:32:29	N.novgorod	2018-Jul-29	10:12:40	Yaroslavl	A
+2018-Jul-29	16:07:56	Petrozavodsk	2018-Jul-29	18:05:38	Kazan	B
+2018-Jul-29	22:03:06	Petrozavodsk	2018-Jul-30	8:30:15	St-Petersburg	E
+2018-Jul-29	22:52:41	Vologda	2018-Jul-30	9:17:54	St-Petersburg	A

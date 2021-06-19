@@ -1,0 +1,7 @@
+Departure Date	Departure Time	Departure  stations	Arrival Date	Arrival Time	Arrival stations	Class
+2018-Oct-29	0:49:31	N.novgorod	2018-Oct-29	15:19:42	Kazan	C
+2018-Oct-29	5:33:56	Petrozavodsk	2018-Oct-30	2:20:24	Kiev	C
+2018-Oct-29	6:29:20	Tver	2018-Oct-29	16:52:06	Kazan	A
+2018-Oct-29	8:41:34	Tver	2018-Oct-29	17:46:46	Minsk	D
+2018-Oct-29	11:59:22	Tver	2018-Oct-30	10:20:34	St-Petersburg	D
+2018-Oct-29	22:37:25	N.novgorod	2018-Oct-30	0:38:34	Yaroslavl	E

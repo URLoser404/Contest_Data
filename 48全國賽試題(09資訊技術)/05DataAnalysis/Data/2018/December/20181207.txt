@@ -1,0 +1,10 @@
+Departure Date	Departure Time	Departure  stations	Arrival Date	Arrival Time	Arrival stations	Class
+2018-Dec-07	0:05:57	Tver	2018-Dec-07	3:49:55	Kazan	B
+2018-Dec-07	0:55:06	Tver	2018-Dec-07	3:06:45	Kiev	C
+2018-Dec-07	7:31:07	Tver	2018-Dec-07	21:10:00	St-Petersburg	A
+2018-Dec-07	7:58:38	Tver	2018-Dec-07	15:53:57	St-Petersburg	A
+2018-Dec-07	16:02:18	Tver	2018-Dec-08	9:55:10	Kiev	A
+2018-Dec-07	19:17:47	Petrozavodsk	2018-Dec-08	13:41:42	St-Petersburg	C
+2018-Dec-07	21:37:19	Moscow	2018-Dec-08	9:45:53	Yaroslavl	D
+2018-Dec-07	22:39:10	Tver	2018-Dec-08	11:16:11	Yaroslavl	A
+2018-Dec-07	23:57:25	Moscow	2018-Dec-08	16:54:33	St-Petersburg	C

@@ -1,0 +1,6 @@
+Departure Date	Departure Time	Departure  stations	Arrival Date	Arrival Time	Arrival stations	Class
+2018-Dec-28	0:49:45	N.novgorod	2018-Dec-28	5:42:05	Minsk	C
+2018-Dec-28	5:13:25	Petrozavodsk	2018-Dec-29	4:55:53	Kiev	E
+2018-Dec-28	12:12:15	N.novgorod	2018-Dec-28	17:12:57	Yaroslavl	D
+2018-Dec-28	16:02:30	Moscow	2018-Dec-29	1:48:24	Minsk	A
+2018-Dec-28	18:01:02	Moscow	2018-Dec-28	19:08:55	Yaroslavl	A

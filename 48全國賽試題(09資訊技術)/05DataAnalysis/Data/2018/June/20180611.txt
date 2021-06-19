@@ -1,0 +1,10 @@
+Departure Date	Departure Time	Departure  stations	Arrival Date	Arrival Time	Arrival stations	Class
+2018-Jun-11	6:01:39	Petrozavodsk	2018-Jun-11	7:46:34	Minsk	E
+2018-Jun-11	8:58:49	Moscow	2018-Jun-11	15:33:10	Yaroslavl	C
+2018-Jun-11	9:27:22	Moscow	2018-Jun-12	5:57:14	Kiev	B
+2018-Jun-11	19:18:45	Moscow	2018-Jun-12	13:17:05	Yaroslavl	B
+2018-Jun-11	20:30:19	Petrozavodsk	2018-Jun-11	21:04:03	Minsk	C
+2018-Jun-11	21:09:13	Tver	2018-Jun-12	20:15:05	Minsk	D
+2018-Jun-11	22:35:00	Vologda	2018-Jun-12	4:52:44	Kazan	C
+2018-Jun-11	23:50:00	Tver	2018-Jun-12	8:02:46	St-Petersburg	D
+2018-Jun-11	23:50:16	N.novgorod	2018-Jun-12	12:37:40	St-Petersburg	B

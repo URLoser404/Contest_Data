@@ -1,0 +1,9 @@
+Departure Date	Departure Time	Departure  stations	Arrival Date	Arrival Time	Arrival stations	Class
+2018-Dec-06	1:00:53	Petrozavodsk	2018-Dec-06	7:16:56	Kazan	B
+2018-Dec-06	1:38:20	Moscow	2018-Dec-06	12:17:48	Minsk	E
+2018-Dec-06	3:52:29	Vologda	2018-Dec-06	4:20:43	Minsk	D
+2018-Dec-06	4:07:36	Moscow	2018-Dec-06	19:43:03	St-Petersburg	D
+2018-Dec-06	10:42:32	Moscow	2018-Dec-07	10:07:18	Kiev	E
+2018-Dec-06	13:32:05	Vologda	2018-Dec-06	20:30:00	Yaroslavl	A
+2018-Dec-06	15:02:29	Petrozavodsk	2018-Dec-06	16:32:46	Yaroslavl	C
+2018-Dec-06	23:14:22	Vologda	2018-Dec-07	5:07:07	St-Petersburg	D
